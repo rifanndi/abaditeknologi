@@ -542,7 +542,7 @@
   });
 
   var typed = new Typed(".typed", {
-    strings: ["Gemilang Multi Teknologi."],
+    strings: ["Gemilang Abadi Teknologi."],
     typeSpeed: 100,
     loop: true,
     cursorChar: "|",
